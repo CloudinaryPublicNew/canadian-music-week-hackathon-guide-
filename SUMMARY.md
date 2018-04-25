@@ -1,6 +1,6 @@
 # Summary
 
-## SXSW 2018 Hackathon Guide
+## Canadian Music Week 2018 Hackathon Guide
 
 * [Challenge and Prizes](README.md)
 * [Participating Sponsors](participating-sponsors.md)
