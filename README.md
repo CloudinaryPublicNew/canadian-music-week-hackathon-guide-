@@ -1,3 +1,4 @@
+
 # About
 
 ![](.gitbook/assets/hackathon-header-3.jpg)
@@ -23,39 +24,13 @@ Hackathon Winners Presentations and Awards:
 March 9, 4:10-5:00pm.   
 Sheraton Centre Hotel \(CMW HQ\), Hall C
 
+We're hackers too, so we know your time at the hackathon is limited. That's why we've developed this guide to help you harness our technology to realize your ideas in the most efficient way possible.
 
+## Challenge:
 
+Build and demonstrate the best use of Cloudinary in your hack to win fun prizes.
 
+**Prizes:**
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+* 1-year Cloudinary Plus plan ($1068 value) awards to the hack teams chosen for the most creative and the best implementation
+* Distinguished hack projects (that use Cloudinary) will be featured on our Blog.
