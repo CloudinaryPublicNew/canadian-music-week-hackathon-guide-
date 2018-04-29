@@ -6,6 +6,8 @@ By Dan Zeitman
 
 In this Step-By-Step Guide we'll show you how to build an API wrapper for multiple web services in order to create a music discovery service backend.
 
+We'll create a wrapper for 7Digital's node APIs. 
+
 We're going to build a series of api endpoints that will be hosted on Auth0's Webtask. The design pattern is based off Express so it will be familiar to many.
 
 ## Let's get started:
