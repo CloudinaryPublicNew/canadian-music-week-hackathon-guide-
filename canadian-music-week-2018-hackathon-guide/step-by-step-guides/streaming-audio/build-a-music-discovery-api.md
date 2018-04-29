@@ -6,11 +6,13 @@ By Dan Zeitman
 
 In this Step-By-Step Guide we'll show you how to build an API wrapper for multiple web services in order to create a music discovery service backend.
 
-We'll create a wrapper for 7Digital's node APIs. 
+We'll create an express based app, running on **Auth0 Webtask,**  that will combine primary API's from CLOUDINARY and 7DIGITAL.   In this demonstration, we're going to build a series of api endpoints that will be hosted on Auth0's Webtask. The design pattern is based off Express so it will be familiar to many.
 
-We're going to build a series of api endpoints that will be hosted on Auth0's Webtask. The design pattern is based off Express so it will be familiar to many.
+The 7Digital APIs provide many methods for browsing and streaming a catalog of tracks made available by Capitol Music Group \(CMG\). Capitol Music Group \(CMG\) is comprised of Capitol Records, Virgin Records, Motown Records, Blue Note Records, Astralwerks, Harvest Records, Capitol Christian Music Group, and CMG’s independent distribution division, Caroline.
 
-## Let's get started:
+The Cloudinary API's provide an end-to-end image solution for managing and transformation  image and video assets. 
+
+### Let's get started:
 
 #### Setting Up Cloudinary
 
