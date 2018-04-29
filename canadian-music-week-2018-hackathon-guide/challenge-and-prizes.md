@@ -1,6 +1,6 @@
-# Introduction
+# Challenge and Prizes
 
-![](.gitbook/assets/hackathon-header-3.jpg)
+![](../.gitbook/assets/hackathon-header-3.jpg)
 
 The first-ever Canadian Music Week Hackathon brings together coders, developers, hackers, artists, designers and tech specialists for 24 hours of intense work, debates, brainstorming, innovation, camaraderie and fun! Each team is invited to formulate solutions to problems and create new pathways to move the music industry forward.
 

@@ -1,43 +1,45 @@
-# Summary
+# Table of contents
+
+* [Introduction](README.md)
 
 ## Canadian Music Week 2018 Hackathon Guide
 
-* [Challenge and Prizes](README.md)
-* [Participating Sponsors](participating-sponsors.md)
+* [Challenge and Prizes](canadian-music-week-2018-hackathon-guide/challenge-and-prizes.md)
+* [Participating Sponsors](canadian-music-week-2018-hackathon-guide/participating-sponsors.md)
 * Thought Starters
-  * [Music Discovery Service](thought-starters/build-a-music-discovery-service.md)
-  * [Multi-User Sing Along ](thought-starters/multi-user-sing-along.md)
-  * [Cover Art & Fan Pages](thought-starters/build-styled-fan-pages-from-artist-photos.md)
-  * [Interactive Lyrics Page](thought-starters/interactive-lyrics-page.md)
+  * [Music Discovery Service](canadian-music-week-2018-hackathon-guide/thought-starters/music-discovery-service.md)
+  * [Multi-User Sing Along](canadian-music-week-2018-hackathon-guide/thought-starters/multi-user-sing-along.md)
+  * [Cover Art & Fan Pages](canadian-music-week-2018-hackathon-guide/thought-starters/cover-art-and-fan-pages.md)
+  * [Interactive Lyrics Page](canadian-music-week-2018-hackathon-guide/thought-starters/interactive-lyrics-page.md)
 * Music Discovery APIs
-  * [Getting Started](/7Digital/intro.md)
-  * [API Cheat Sheet](/7Digital/api-docs.md)
-  * [Artist - Browse](/7Digital/catalog-browse.md)
-  * [Artist - Chart](/7Digital/catalog-chart.md)
-  * [Artist - Search](/7Digital/catalog-search.md)
+  * [Getting Started](canadian-music-week-2018-hackathon-guide/music-discovery-apis/getting-started.md)
+  * [API Cheat Sheet](canadian-music-week-2018-hackathon-guide/music-discovery-apis/api-cheat-sheet.md)
+  * [Artist - Browse](canadian-music-week-2018-hackathon-guide/music-discovery-apis/artist-browse.md)
+  * [Artist - Chart](canadian-music-week-2018-hackathon-guide/music-discovery-apis/artist-chart.md)
+  * [Artist - Search](canadian-music-week-2018-hackathon-guide/music-discovery-apis/artist-search.md)
 * Media Management APIs
   * Audio and Video
-    * [Video Transcoding](audio-and-video/video-transcoding.md)
-    * [HTML5 Video Player](audio-and-video/html-5-video-player.md)
-    * [Media Authentication](audio-and-video/protecting-your-videos.md)
+    * [Video Transcoding](canadian-music-week-2018-hackathon-guide/media-management-apis/audio-and-video/video-transcoding.md)
+    * [HTML5 Video Player](canadian-music-week-2018-hackathon-guide/media-management-apis/audio-and-video/html5-video-player.md)
+    * [Media Authentication](canadian-music-week-2018-hackathon-guide/media-management-apis/audio-and-video/media-authentication.md)
   * AI: Tagging and Recognition
-    * [Categorizing Images](auto-tagging-facial-recognition-and-ai/add-ons-and-other-features.md)
-    * [Content Moderation](auto-tagging-facial-recognition-and-ai/content-moderation.md)
+    * [Categorizing Images](canadian-music-week-2018-hackathon-guide/media-management-apis/ai-tagging-and-recognition/categorizing-images.md)
+    * [Content Moderation](canadian-music-week-2018-hackathon-guide/media-management-apis/ai-tagging-and-recognition/content-moderation.md)
   * Serverless Functions
-    * [Webtask & Cloudinary](functions-as-a-service/build-an-online-contest.md)
+    * [Webtask & Cloudinary](canadian-music-week-2018-hackathon-guide/media-management-apis/serverless-functions/webtask-and-cloudinary.md)
   * Web Performance
-    * [Image Optimization I](performance/rich-image-delivery.md)
-    * [Image Optimization II](performance/auto-crop-responsive-images.md)
+    * [Image Optimization I](canadian-music-week-2018-hackathon-guide/media-management-apis/web-performance/image-optimization-i.md)
+    * [Image Optimization II](canadian-music-week-2018-hackathon-guide/media-management-apis/web-performance/image-optimization-ii.md)
   * Styling and Filtering
-    * [Neural Artwork](presentation-and-responsive-image-delivery/turn-photos-to-art-with-style-transfer.md)
-    * [Artistic Filters](presentation-and-responsive-image-delivery/image-filters.md)
-    * [Distortion Effects](presentation-and-responsive-image-delivery/size-images-to-fit-your-graphic-design.md)
+    * [Neural Artwork](canadian-music-week-2018-hackathon-guide/media-management-apis/styling-and-filtering/neural-artwork.md)
+    * [Artistic Filters](canadian-music-week-2018-hackathon-guide/media-management-apis/styling-and-filtering/artistic-filters.md)
+    * [Distortion Effects](canadian-music-week-2018-hackathon-guide/media-management-apis/styling-and-filtering/distortion-effects.md)
   * Uploading Media
-    * [Social and Cloud Sources](uploading/upload-videos-from-dropbox-and-other-sources.md)
+    * [Social and Cloud Sources](canadian-music-week-2018-hackathon-guide/media-management-apis/uploading-media/social-and-cloud-sources.md)
   * Visualization
-    * [Audio to Waveform Images](visualization/audio-to-waveform-images.md)
-* [Step-By-Step Guides](step-by-step-guides.md)
+    * [Audio to Waveform Images](canadian-music-week-2018-hackathon-guide/media-management-apis/visualization/audio-to-waveform-images.md)
+* Step-By-Step Guides
   * Streaming Audio
-    * [Build an Audio Player](/step-by-step/intro.md)
-    * [Build a Music Discovery API](/step-by-step/build-a-music-discovery-api.md)
+    * [Build a Music Discovery API](canadian-music-week-2018-hackathon-guide/step-by-step-guides/streaming-audio/build-a-music-discovery-api.md)
+    * [Build an Audio Player](canadian-music-week-2018-hackathon-guide/step-by-step-guides/streaming-audio/build-an-audio-player.md)
 
