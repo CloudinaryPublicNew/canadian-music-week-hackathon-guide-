@@ -28,7 +28,7 @@ Once you've logged in create an empty task and run it to get familiar with the p
 
 Create a new task called:
 
-> sxsw-music-discovery-service
+> **music-discovery-service**
 
 [Copy the source code of our Music Discovery Service API](https://github.com/cloudinary-developers/sxsw-hackathon/blob/master/sxsw-music-discovery-service.js)
 
