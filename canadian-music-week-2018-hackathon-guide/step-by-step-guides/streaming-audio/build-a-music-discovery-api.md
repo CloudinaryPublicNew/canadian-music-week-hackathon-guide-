@@ -14,7 +14,7 @@ We're going to build a series of api endpoints that will be hosted on Auth0's We
 
 The first thing you’re going to have to do is set up a Cloudinary account.
 
-So, go ahead and pop on over to the [signup page](https://cloudinary.com/signup).
+So, go ahead and pop on over to the [signup page](https://cloudinary.com/signup?utm_source=CMW&utm_medium=Gitbook&utm_campaign=Evangelism&utm_term=Hackathon-Guide&utm_content=Signup_CMW).
 
 ![Screenshot of the signup page](https://eric-cloudinary-res.cloudinary.com/image/upload/q_auto,f_auto,w_900/v1518532546/Screen_Shot_2018-02-13_at_06.35.17.png)
 
