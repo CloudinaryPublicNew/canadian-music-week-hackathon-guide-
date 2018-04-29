@@ -30,7 +30,7 @@ Create a new task called:
 
 > **music-discovery-service**
 
-[Copy the source code of our Music Discovery Service API](https://github.com/cloudinary-developers/sxsw-hackathon/blob/master/sxsw-music-discovery-service.js)
+Copy the source code of our [Music Discovery Service API](https://raw.githubusercontent.com/cloudinary-developers/music-discovery-service/master/music-discovery-service.js) \(GitHub\)
 
 ```text
 ###Add The Secrets
@@ -53,10 +53,6 @@ var context = {
 ```
 
 You will want to store your api and access keys in the context.secrets
-
-![](https://github.com/cloudinary-developers/canadian-music-week-hackathon-guide-/tree/39a9b1c59498323c6876cd302c24ff20894ab40f/assets/secrets-1.png)
-
-![](https://github.com/cloudinary-developers/canadian-music-week-hackathon-guide-/tree/39a9b1c59498323c6876cd302c24ff20894ab40f/assets/secrets-2.png)
 
 #### Add the NPM Modules
 
