@@ -1,7 +1,7 @@
 # Introduction
 
 {% hint style="warning" %}
-This Hackathon Guide is a living document which we update frequently with additional info and code examples.   It's meant to be a quick start in learning about Cloudinary and how to integrate other APIs featued at this event.   Please take a few moments to check out and follow the guide's thought starters links and try our our sample application examples \(Step-By-Step Guides\) and don't forget to check back here often for new content.
+This Hackathon Guide is a living document which we update frequently with additional info and code examples.   It's meant to be a quick start in learning about Cloudinary and how to integrate other APIs featured at this event.   Please take a few moments to check out and follow the guide's thought starters links and try our our sample application examples \(Step-By-Step Guides\) and don't forget to check back here often for new content.
 {% endhint %}
 
 ![](.gitbook/assets/hackathon-header-3.jpg)
