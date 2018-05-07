@@ -12,7 +12,7 @@ Use our powerful APIs to search the fan photos and videos that have been[ auto-t
 
 ### Choose a Serverless Stack
 
-Resist the urge to create an express app and deploy a server for this one! Instead, focus on using each API directly within a Single Page App \(SPA\) to take advantage of the responsive design possibilities.
+Resist the urge to create an Express app and deploy a server for this one! Instead, focus on using each API directly within a Single Page App \(SPA\) to take advantage of the responsive design possibilities.
 
 Cloudinary's APIs work elegantly with Auth0 [Webtasks](https://webtask.io) and other serverless platforms. We support many languages, including JavaScript and [Node.js](https://cloudinary.com/documentation/node_integration).
 
