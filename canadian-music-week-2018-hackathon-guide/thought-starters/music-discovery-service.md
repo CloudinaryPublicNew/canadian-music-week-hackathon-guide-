@@ -4,7 +4,7 @@
 
 ## Build a Music Discovery Service
 
-Create a community-based music sharing and discovery site. Make the focus on user-generated content, let your users [upload](../media-management-apis/uploading-media/social-and-cloud-sources.md) their music, tag and categorize their music.
+Create a community-based music sharing and discovery site. Make the focus on user-generated content, let your users [upload](../media-management-apis/uploading-media/social-and-cloud-sources.md), tag and categorize their music.
 
 Engage users with [beautiful visualizations](../media-management-apis/visualization/audio-to-waveform-images.md) the music audio and video tracks. Showcase each video using our [HTML5 Video Player](../media-management-apis/audio-and-video/html5-video-player.md). Display beautiful layouts of artists, album art and fan photos in [rich and responsive layouts](../media-management-apis/web-performance/image-optimization-i.md) and [sized perfectly ](../media-management-apis/web-performance/image-optimization-ii.md)for your design and each type of device.
 
