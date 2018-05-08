@@ -16,6 +16,8 @@ With this sample application you'll  be able to Stream Songs like this:
 
 [https://canadian-music-week.cloudinary.auth0-extend.com/music-discovery-service/song/40349901/stream](https://canadian-music-week.cloudinary.auth0-extend.com/music-discovery-service/song/40349901/stream)
 
+Search for artists, get the tracks and integrate with Cloudinary.
+
 ### Brief Overview of the Music Discovery Service Demo:
 
 1. Signup for Cloudinary and Auth0 Webtask.
