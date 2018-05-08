@@ -14,9 +14,6 @@
 * Music Discovery APIs
   * [Getting Started](canadian-music-week-2018-hackathon-guide/music-discovery-apis/getting-started.md)
   * [API Cheat Sheet](canadian-music-week-2018-hackathon-guide/music-discovery-apis/api-cheat-sheet.md)
-  * [Artist - Browse](canadian-music-week-2018-hackathon-guide/music-discovery-apis/artist-browse.md)
-  * [Artist - Chart](canadian-music-week-2018-hackathon-guide/music-discovery-apis/artist-chart.md)
-  * [Artist - Search](canadian-music-week-2018-hackathon-guide/music-discovery-apis/artist-search.md)
 * Cloudinary APIs
   * Audio and Video
     * [Video Transcoding](canadian-music-week-2018-hackathon-guide/media-management-apis/audio-and-video/video-transcoding.md)
