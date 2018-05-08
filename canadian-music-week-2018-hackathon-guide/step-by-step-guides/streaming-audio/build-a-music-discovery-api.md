@@ -61,7 +61,7 @@ Create a new task called:
 
 > **music-discovery-service**
 
-Copy the source code of our [Music Discovery Service API](https://raw.githubusercontent.com/cloudinary-developers/music-discovery-service/master/music-discovery-service.js) \(GitHub\)
+Copy the source code of our [Music Discovery Service API](https://gist.github.com/dzeitman/8e78b79e39de113e75945bd201c6baaa) \(GIST\)
 
 {% embed data="{\"url\":\"https://github.com/cloudinary-developers/music-discovery-service/blob/master/music-discovery-service.js\",\"type\":\"link\",\"title\":\"cloudinary-developers/music-discovery-service\",\"description\":\"music-discovery-service - Music Discovery Service\",\"icon\":{\"type\":\"icon\",\"url\":\"https://github.com/fluidicon.png\",\"aspectRatio\":0},\"thumbnail\":{\"type\":\"thumbnail\",\"url\":\"https://avatars1.githubusercontent.com/u/33458021?s=400&v=4\",\"width\":400,\"height\":400,\"aspectRatio\":1}}" %}
 
