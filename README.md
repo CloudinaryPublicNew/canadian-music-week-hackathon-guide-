@@ -9,6 +9,7 @@ Steps to Success
 
 * [ ] Get a [Cloudinary](https://cloudinary.com/signup?utm_source=CMW&utm_medium=Gitbook&utm_campaign=Evangelism&utm_term=Hackathon-Guide&utm_content=Signup_CMW) Account and Credentials
 * [ ] Visit Cloudinary and 7Digital's Table at the Event to get free upgrades and additional API Keys
+* [ ] Join our [Slack Channel ](http://bit.ly/cmw-slack)
 {% endhint %}
 
 ![Canadian Music Week Hackathon](.gitbook/assets/hackathon-header-4.jpg)
