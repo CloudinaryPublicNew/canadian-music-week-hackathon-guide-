@@ -12,11 +12,10 @@ The 7Digital APIs provide many methods for browsing and streaming a catalog of t
 
 7digital provide a full set of API endpoints for building end-to-end subscription streaming services. For the hackathon we have only enabled the Music Discovery API’s \(Catalogue APIs\) and the track streaming endpoints for full length and clip length audio.
 
-[**7 Digital API Overview**](https://cloudinary.gitbook.io/canadian-music-week-hackathon-guide/~/edit/primary/canadian-music-week-2018-hackathon-guide/music-discovery-apis/getting-started) 
+**Download the 7Digital API Overview: **[**http://bit.ly/cmw-7digital-guide**](http://bit.ly/cmw-7digital-guide)**​**
 
-[**Documentation for the Catalogue APIs**](http://docs.7digital.com/#catalogue)
-
-[**Documentation for Preview Clip audio streaming**](http://docs.7digital.com/#_clip__trackId__get)
-
-[**Documentation for Full Length audio streaming**](http://docs.7digital.com/#_stream_catalogue_get)
+{% hint style="danger" %}
+Note: This overview details specific hackathon params required to connect to the api.    
+READ THIS FIRST.
+{% endhint %}
 
