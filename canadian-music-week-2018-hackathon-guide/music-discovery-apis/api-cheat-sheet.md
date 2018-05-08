@@ -4,7 +4,7 @@
 
 > **Success** Complete Docs: [http://docs.7digital.com/\#api-basics ](http://docs.7digital.com/#api-basics)
 
-![](../../.gitbook/assets/cmw-hackaton-7digital-api-overview.pdf)
+Download the 7Digital API Slides: [http://bit.ly/cmw-7digital-guide](http://bit.ly/cmw-7digital-guide)
 
 ## Request Format {#api-basics_Request-Format}
 
