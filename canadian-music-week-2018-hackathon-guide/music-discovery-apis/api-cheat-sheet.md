@@ -4,6 +4,8 @@
 
 > **Success** Complete Docs: [http://docs.7digital.com/\#api-basics ](http://docs.7digital.com/#api-basics)
 
+![](../../.gitbook/assets/cmw-hackaton-7digital-api-overview.pdf)
+
 ## Request Format {#api-basics_Request-Format}
 
 Access to 7digital services is provided through a REST style interface.
