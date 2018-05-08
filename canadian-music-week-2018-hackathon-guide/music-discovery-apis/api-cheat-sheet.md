@@ -2,7 +2,7 @@
 
 ## 7Digital API Cheat Sheet:
 
-> **Success** Complete Docs: [http://docs.7digital.com/\#api-basics ](http://docs.7digital.com/#api-basics)
+> Complete Docs: [http://docs.7digital.com/\#api-basics ](http://docs.7digital.com/#api-basics)
 
 Download the 7Digital API Slides: [http://bit.ly/cmw-7digital-guide](http://bit.ly/cmw-7digital-guide)
 
