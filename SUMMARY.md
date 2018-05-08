@@ -6,7 +6,7 @@
 
 * [Challenge and Prizes](canadian-music-week-2018-hackathon-guide/challenge-and-prizes.md)
 * [Participating Sponsors](canadian-music-week-2018-hackathon-guide/participating-sponsors.md)
-* Thought Starters
+* [Thought Starters](canadian-music-week-2018-hackathon-guide/thought-starters/README.md)
   * [Music Discovery Service](canadian-music-week-2018-hackathon-guide/thought-starters/music-discovery-service.md)
   * [Multi-User Sing Along](canadian-music-week-2018-hackathon-guide/thought-starters/multi-user-sing-along.md)
   * [Cover Art & Fan Pages](canadian-music-week-2018-hackathon-guide/thought-starters/cover-art-and-fan-pages.md)
