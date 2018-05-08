@@ -12,6 +12,10 @@ The 7Digital APIs provide many methods for browsing and streaming a catalog of t
 
 The Cloudinary API's provide an end-to-end image solution for managing and transformation  image and video assets. 
 
+With this sample application you'll  be able to Stream Songs like this:
+
+[https://canadian-music-week.cloudinary.auth0-extend.com/music-discovery-service/song/40349901/stream](https://canadian-music-week.cloudinary.auth0-extend.com/music-discovery-service/song/40349901/stream)
+
 ### Brief Overview of the Music Discovery Service Demo:
 
 1. Signup for Cloudinary and Auth0 Webtask.
