@@ -17,7 +17,7 @@
   * [Artist - Browse](canadian-music-week-2018-hackathon-guide/music-discovery-apis/artist-browse.md)
   * [Artist - Chart](canadian-music-week-2018-hackathon-guide/music-discovery-apis/artist-chart.md)
   * [Artist - Search](canadian-music-week-2018-hackathon-guide/music-discovery-apis/artist-search.md)
-* Media Management APIs
+* Cloudinary APIs
   * Audio and Video
     * [Video Transcoding](canadian-music-week-2018-hackathon-guide/media-management-apis/audio-and-video/video-transcoding.md)
     * [HTML5 Video Player](canadian-music-week-2018-hackathon-guide/media-management-apis/audio-and-video/html5-video-player.md)
